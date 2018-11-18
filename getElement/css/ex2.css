@@ -1,0 +1,40 @@
+html{
+  padding-top:25px;
+  background-image:url(../bg_page.png);
+}
+body{
+ width:80%;
+ padding:20px;
+ margin:0 auto;
+ box-shadow:10px 10px 10px rgba(0, 0, 0, .5);
+ background-color:#e1edeb;
+}
+h1{
+ font-family:'Gravitas One', 'Arial Black', serif;
+ font-weight:normal; 
+ color:#666666;
+ font-size:3em;
+ margin:0;
+}
+h2{
+	color:#B1967C;
+	font-weight:normal;
+	font-family:'Gravitas One', 'Arial Black', serif;
+	font-size:2.2em;
+	border-bottom:2px white solid;
+	background:url(../head-icon.png)no-repeat 10px 10px;
+	padding:0 0 2px 60px;
+	margin:0;
+}
+p{
+  color:#616161;
+  line-height:150%;
+  margin-top:10px;
+  margin-left:80px;
+}
+button{
+	margin:5px;
+}
+button:active, button:hover {
+	background:lightblue;
+}
