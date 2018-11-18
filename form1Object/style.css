@@ -1,0 +1,27 @@
+body{
+	
+	font-family:'Lobster', serif;
+	font-size:30px;
+	background:yellow;
+}
+h1 {
+	font-size:35px;
+	text-shadow:4px 4px 4px #aaa;
+	color:;
+}
+#button1{
+	width:90px;
+	height:40px;
+}
+#button1:hover{
+	background:#aaa;
+}
+form{
+	width:50%;
+	height:50%;
+	border:2px dotted #aaa;
+	text-align:center;
+	margin:0 auto;
+}
+
+

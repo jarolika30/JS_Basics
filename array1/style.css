@@ -1,0 +1,28 @@
+body{
+	text-align:center;
+	font-family:'Lobster', serif;
+	font-size:30px;
+	background:yellow;
+}
+h1 {
+	text-align:center;
+	font-size:35px;
+	text-shadow:4px 4px 4px #aaa;
+	color:;
+}
+button{
+	width:55px;
+	height:20px;
+}
+button:hover{
+	background:#aaa;
+}
+form{
+	width:50%;
+	height:50%;
+	border:2px dotted #aaa;
+	text-align:center;
+	margin:0 auto;
+}
+
+
